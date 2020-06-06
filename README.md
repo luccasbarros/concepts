@@ -1,2 +1,3 @@
-# estudoss
- Atualização com estudos.
+# Estudos e atualizações.
+
+Repositório criado para armazenar estudos.
