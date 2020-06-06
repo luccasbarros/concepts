@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <Body>
+
+        <button id="#botao" onclick="digaOla()">Clica aqui!</button>
+
+        <input id="#campo" type="text" onkeypress="mostraTexto()" />
+
+        <script type="application/javascript">
+
+            var digaOla = function() {
+                alert('Olá, tudo bem?')
+            };
+
+            var mostraTexto = function () {
+                var texto = document.getElementById('#campo').value;
+                console.log(texto)
+            } 
+
+        </script>
+    </Body>
+</html>
