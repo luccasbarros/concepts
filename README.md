@@ -1,3 +1,3 @@
-# Estudos e atualizações.
+# Study Repository
 
-Repositório criado para armazenar estudos.
+Repo was created with purpose to submit some studies/ideas
